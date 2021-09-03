@@ -5,7 +5,7 @@ struct config_t {
     int rightPlatSize = 0;
     int leftColor = 0;
     int rightColor = 0;
-    bool enabled = false;
+    bool enabled = true;
     bool onRelease = true;
     bool stickPlat = false;
 };
